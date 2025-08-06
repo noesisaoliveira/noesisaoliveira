@@ -9,8 +9,7 @@
 
 - 🤝 You can find me on [Linkedin](https://www.linkedin.com/in/ajpoliveira/)
 
-- 👨‍💻 All of my projects are available at [TOP SECRET :-)](TOP SECRET :-))
-
+- 👨‍💻 All of my projects are available at TOP SECRET :smiley:
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
 - 💬 Ask me about **Anything**
