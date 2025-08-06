@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alberto Oliveira</h1>
 <h3 align="center">I´m a DevSecOps Engineer</h3>
 
-- 🔭 I’m currently working on [NOS](www.nos.pt)
+- 🔭 I’m currently working @ [NOS](www.nos.pt)
 
-- 👯 And also at... [Noesis](www.noesis.pt)
+- 👯 And also @... [Noesis](www.noesis.pt)
 
 - 🌱 I’m currently learning **Google CLoud Platform**
 
