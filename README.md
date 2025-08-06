@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [NOS](www.nos.pt)
 
-- 🌱 I’m currently learning **Google CLoud Platform**
-
 - 👯 And also at... [Noesis](www.noesis.pt)
+
+- 🌱 I’m currently learning **Google CLoud Platform**
 
 - 🤝 You can find me on [Linkedin](https://www.linkedin.com/in/ajpoliveira/)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ajpoliveira/](https://www.linkedin.com/in/ajpoliveira/)
 
-- ⚡ Fun fact **Love fishing**
+- ⚡ Fun fact **Love Internet Of Things and Cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
